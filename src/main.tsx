@@ -8,9 +8,12 @@ import "bootstrap/dist/css/bootstrap.min.css";
 // import { FormCustomHook } from "./02-useEffect/FormCustomHook";
 // import { MultipleCustomHooks } from "./03-example/MultipleCustomHooks";
 // import { FocusScreen } from "./04-useRef/FocusScreen";
-import { Layout } from "./05-useLayoutEffect/Layout";
+// import { Layout } from "./05-useLayoutEffect/Layout";
+// import "./06-useReducer/introReducer";
+import { TodoApp } from "./06-useReducer/TodoApp";
+
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <Layout />
+    <TodoApp />
   </React.StrictMode>
 );

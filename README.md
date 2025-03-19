@@ -10,6 +10,7 @@ Hook App es una aplicación de demostración que ilustra el uso de los diferente
 - useEffect
 - useRef
 - useLayoutEffect
+- useReducer
 - Custom Hooks
 
 ## Características Principales
@@ -19,6 +20,7 @@ Hook App es una aplicación de demostración que ilustra el uso de los diferente
 - Consumo de APIs (Pokemon API)
 - Custom Hooks reutilizables
 - Implementación de contador con diferentes variantes
+- Aplicación de TODO con useReducer
 - Estilos con Bootstrap 5
 
 ## Requisitos Previos
@@ -64,6 +66,7 @@ El proyecto está organizado en diferentes carpetas que muestran ejemplos de imp
 - `/src/03-example`: Ejemplos de uso múltiple de Custom Hooks
 - `/src/04-useRef`: Ejemplos con useRef
 - `/src/05-useLayoutEffect`: Implementaciones con useLayoutEffect
+- `/src/06-useReducer`: Implementaciones con useReducer y TODO App
 - `/src/hooks`: Custom Hooks reutilizables
 
 ## Créditos
