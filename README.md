@@ -12,6 +12,7 @@ Hook App es una aplicación de demostración que ilustra el uso de los diferente
 - useLayoutEffect
 - useReducer
 - Custom Hooks
+- useContext
 
 ## Características Principales
 
@@ -22,6 +23,7 @@ Hook App es una aplicación de demostración que ilustra el uso de los diferente
 - Implementación de contador con diferentes variantes
 - Aplicación de TODO con useReducer
 - Estilos con Bootstrap 5
+- Implementación de rutas con React Router
 
 ## Requisitos Previos
 
@@ -56,6 +58,7 @@ yarn install
 - Vite
 - Bootstrap 5
 - ESLint
+- React Router DOM
 
 ## Estructura del Proyecto
 
@@ -68,6 +71,7 @@ El proyecto está organizado en diferentes carpetas que muestran ejemplos de imp
 - `/src/05-useLayoutEffect`: Implementaciones con useLayoutEffect
 - `/src/06-useReducer`: Implementaciones con useReducer y TODO App
 - `/src/hooks`: Custom Hooks reutilizables
+- `/src/07-useContext`: Implementaciones con useContext y manejo de rutas
 
 ## Créditos
 
